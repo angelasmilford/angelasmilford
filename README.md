@@ -17,7 +17,7 @@ I'm Angela Milford, a student at Brigham Young University-Idaho interested in So
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/angelasmilford/) profile
-- Here is my [Twitter](https://x.com/angelasmilford) profile
+- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelasmilford/)
+- [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/angelasmilford)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
