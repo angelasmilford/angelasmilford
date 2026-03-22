@@ -2,11 +2,11 @@
 
 Hello, GitHub! 👋
 
-I'm Angela Milford, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Angela Milford, a student at Brigham Young University-Idaho interested in Software Development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning Software Development Lifecycyle (SDLC) and Web Services. 
+- I'm currently learning Software Development Lifecycyle (SDLC), Web Services, and Software Engineering Principles. 
 - My goals are to attain a bachelor's degree and create webs, apps, and games from scratch.
 - Ask me about my projects, career aspirations, and anything tech-related.
 
