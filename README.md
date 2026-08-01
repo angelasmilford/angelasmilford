@@ -1,19 +1,19 @@
 # Angela S. Milford
 
-Hello, GitHub! 👋
+Greetings or Talofa lava, GitHub! 👋
 
-I'm Angela Milford, a student at Brigham Young University-Idaho interested in Software Development. Welcome to my GitHub profile!
+I'm Angela Milford, I come from American Samoa, and I'm a student at Brigham Young University-Idaho interested in Software Development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning Software Development Lifecycyle (SDLC), Web Services, and Software Engineering Principles. 
+- I'm currently learning Full-Stack Development and Software Architecture Design. 
 - My goals are to attain a bachelor's degree and create webs, apps, and games from scratch.
 - Ask me about my projects, career aspirations, and anything tech-related.
 
 ## Technologies and Tools
 
 - Proficient in: HTML, CSS, JavaScript, Node.js, Python, Kotlin, C++, Java, PostgreSQL, MySQL, and DSA.
-- Skills: Strong Work Ethic, Teamwork, Communication, Willingness to Learn, and Critical Thinking
+- Skills: Strong Work Ethic, Teamwork, Collaboration, Communication, Problem-Solving, Willingness to Learn, and Critical Thinking
 
 ## Let's Connect!
 
