@@ -2,7 +2,7 @@
 
 Greetings or Talofa lava, GitHub! 👋
 
-I'm Angela Milford, I come from American Samoa, and I'm a student at Brigham Young University-Idaho interested in Software Development. Welcome to my GitHub profile!
+I'm Angela Milford, I come from American Samoa, and I'm a Software Development major at Brigham Young University-Idaho. Welcome to my GitHub profile!
 
 ## About Me
 
